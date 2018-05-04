@@ -1,0 +1,3 @@
+target 'Tip4' do
+pod 'BmobSDK'
+end
