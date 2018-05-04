@@ -2,7 +2,7 @@
 
 This is a Tip4 application for iOS submitted as the [pre-assignment](http://courses.coderschool.vn/swift/prework) requirement for Codeschool.vn.
 
-Time spent:  5 hours
+Time spent:  15 hours
 
 Completed:
 
